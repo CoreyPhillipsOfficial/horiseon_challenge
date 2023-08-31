@@ -1,6 +1,6 @@
 # horiseon_challenge
 
-## On this webpage, I refactored the HTML and CSS code. I changed all <div> elements into semantic elements in order to organize the code for better SEO and accessibility. There were also redundancies that I corrected between the HTML and CSS. Additionally, I made sure each of the links work, and that the CSS file follows a logical structure in comparison with the HTML.
+## On this webpage, I refactored the HTML and CSS code. I changed all div elements into semantic elements in order to organize the code for better SEO and accessibility. There were also redundancies that I corrected between the HTML and CSS. Additionally, I made sure each of the links work, and that the CSS file follows a logical structure in comparison with the HTML.
 
 ## Installation
 
