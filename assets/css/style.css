@@ -151,7 +151,7 @@ p {
 }
 /* This class selector effects the footer because it has class="footer" */
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
-/* This class selector effects the h2 in the footer, because the footer has class="footer" */
+/* This class selector effects the h4 in the footer, because the footer has class="footer" */
